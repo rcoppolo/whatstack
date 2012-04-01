@@ -5,6 +5,7 @@ gem 'mongoid'
 gem 'bson_ext'
 gem 'devise'
 gem 'haml'
+gem 'mailcatcher'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
